@@ -21,6 +21,7 @@ switch(operation) {
     case "/":{
         (impartire=nr1/nr2)
         console.log("Rezultatul impartirii numerelor date este: "+impartire )
+        break
     }
     default:{
         console.log("Da refresh la pagina si incearca din nou!")
